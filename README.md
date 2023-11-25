@@ -13,7 +13,7 @@ I started this project to practice my C coding skills, and to learn more about h
 # SSD1306 - SPI
 > Overview
 
-# SSD1306 - I^2^C
+# SSD1306 - I<sup>2</sup>C
 > Overview
 
 # Interface - GPIO
